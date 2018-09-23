@@ -1,2 +1,2 @@
 # arvore-binaria-de-busca
-Árvore binária de busca desenvolvida em C, com funções de cadastrar, remover, pesquisar e listar cadastros. Desenvolvido em parceria com: Artur Marques Magalhães
+Binary search tree with functions of registering, removing, searching and listing entries. Developed in partnership with: Artur Marques Magalhães
